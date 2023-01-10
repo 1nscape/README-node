@@ -29,11 +29,11 @@ function generateMarkdown(data) {
   ${data.description}
 
   # Table of Contents
-  * [Installation](# Installation)
-  * [Usage](# The Usage of Application)
-  * [Test](# Test)
-  * [contribution](# Contribution)
-  * [Information][# Contact information]
+  * [Installation](#-Installation)
+  * [Usage](#-The Usage of Application)
+  * [Test](#-Test)
+  * [contribution](#-Contribution)
+  * [Information][#-Contact information]
 
   # Installation
   *Instructions: ${data.install}

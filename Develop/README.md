@@ -5,20 +5,20 @@
   *License used: [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)],(https://www.gnu.org/licenses/MIT)
 
   # Description
-  The project is able to create README file.
+  README file creator.
 
   # Table of Contents
-  * [Installation](# Installation)
-  * [Usage](# The Usage of Application)
-  * [Test](# Test)
-  * [contribution](# Contribution)
-  * [Information][# Contact information]
+  * [Installation](#-Installation)
+  * [Usage](#-The Usage of Application)
+  * [Test](#-Test)
+  * [contribution](#-Contribution)
+  * [Information][#-Contact information]
 
   # Installation
-  *Instructions: No installation required
+  *Instructions: No installation needed.
   
   # The Usage of Application
-   Simply run node, and answer the questions.
+   Simply answer the questions and README file will be created.
    
    # Test
    No.
@@ -27,5 +27,5 @@
     Cannot contribute.
     
    # Contact Information 
-    * Email to contact: No email. 
+    * Email to contact: None. 
     * GitHub user: 1nscape
