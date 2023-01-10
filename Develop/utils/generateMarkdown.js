@@ -36,10 +36,10 @@ function generateMarkdown(data) {
   * [The Usage of Application](#-The-Usage-of-Application)
   * [Test](#-Test)
   * [Contribution](#-Contribution)
-  * [Contact information][#-Contact-information]
+  * [Contact information](#-Contact-information)
 
   # Installation
-  *Instructions: ${data.install}
+  * Instructions: ${data.install}
   
   # The Usage of Application
    ${data.use}
