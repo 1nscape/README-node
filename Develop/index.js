@@ -6,11 +6,6 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
 
 
-function renderLicenseBadge(license) {
-    
-
-}
-
 
 
 function validationOfInput(value) {
@@ -89,6 +84,13 @@ const questions = [
         message: 'GitHub username?',
         validation: validationOfInput,
     },
+
+    {
+        type: 'input',
+        name: 'license',
+        message: 'Please choose license: MIT, GNU GPL v3, GNU GPL v2',
+        validation: validationOfInput,
+    }
 
 
 
