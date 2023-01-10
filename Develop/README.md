@@ -1,34 +1,34 @@
 
   
   # Title and License Used
-  *Title: 
-  README-node
+  * Title: 
+  max
   
-  *License used: 
+  * License used: 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)],(https://www.gnu.org/licenses/MIT)
 
   # Description
-  README generator.
+  max
 
   # Table of Contents
   * [Installation](#-Installation)
-  * [The Usage of Application](#-The Usage of Application)
+  * [The Usage of Application](#-The-Usage-of-Application)
   * [Test](#-Test)
   * [Contribution](#-Contribution)
-  * [Contact information][#-Contact information]
+  * [Contact information][#-Contact-information]
 
   # Installation
-  *Instructions: None.
+  *Instructions: amx
   
   # The Usage of Application
-   Simply answer questions and README will be created.
+   maxm
    
    # Test
-   None.
+   max
    
-   # Constribution
-    Cannot.
+   # Contribution
+    m
     
    # Contact Information 
-    * Email to contact: None. 
-    * GitHub user: 1nscape
+    * Email to contact: m 
+    * GitHub user: m

@@ -22,10 +22,10 @@ function generateMarkdown(data) {
   return `
   
   # Title and License Used
-  *Title: 
+  * Title: 
   ${data.title}
   
-  *License used: 
+  * License used: 
   ${renderLicenseSection(data.license)}
 
   # Description
@@ -33,10 +33,10 @@ function generateMarkdown(data) {
 
   # Table of Contents
   * [Installation](#-Installation)
-  * [The Usage of Application](#-The Usage of Application)
+  * [The Usage of Application](#-The-Usage-of-Application)
   * [Test](#-Test)
   * [Contribution](#-Contribution)
-  * [Contact information][#-Contact information]
+  * [Contact information][#-Contact-information]
 
   # Installation
   *Instructions: ${data.install}
@@ -47,7 +47,7 @@ function generateMarkdown(data) {
    # Test
    ${data.test}
    
-   # Constribution
+   # Contribution
     ${data.contribution}
     
    # Contact Information 
