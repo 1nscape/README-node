@@ -1,30 +1,33 @@
 
   
   # Title and License Used
-  *Title: README-node
-  *License used: [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)],(https://www.gnu.org/licenses/MIT)
+  *Title: 
+  README-node
+  
+  *License used: 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)],(https://www.gnu.org/licenses/MIT)
 
   # Description
-  README file creator.
+  README generator.
 
   # Table of Contents
   * [Installation](#-Installation)
-  * [Usage](#-The Usage of Application)
+  * [The Usage of Application](#-The Usage of Application)
   * [Test](#-Test)
-  * [contribution](#-Contribution)
-  * [Information][#-Contact information]
+  * [Contribution](#-Contribution)
+  * [Contact information][#-Contact information]
 
   # Installation
-  *Instructions: No installation needed.
+  *Instructions: None.
   
   # The Usage of Application
-   Simply answer the questions and README file will be created.
+   Simply answer questions and README will be created.
    
    # Test
-   No.
+   None.
    
    # Constribution
-    Cannot contribute.
+    Cannot.
     
    # Contact Information 
     * Email to contact: None. 

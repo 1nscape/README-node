@@ -22,18 +22,21 @@ function generateMarkdown(data) {
   return `
   
   # Title and License Used
-  *Title: ${data.title}
-  *License used: ${renderLicenseSection(data.license)}
+  *Title: 
+  ${data.title}
+  
+  *License used: 
+  ${renderLicenseSection(data.license)}
 
   # Description
   ${data.description}
 
   # Table of Contents
   * [Installation](#-Installation)
-  * [Usage](#-The Usage of Application)
+  * [The Usage of Application](#-The Usage of Application)
   * [Test](#-Test)
-  * [contribution](#-Contribution)
-  * [Information][#-Contact information]
+  * [Contribution](#-Contribution)
+  * [Contact information][#-Contact information]
 
   # Installation
   *Instructions: ${data.install}
